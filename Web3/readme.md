@@ -1,4 +1,4 @@
-# Web3 🚀
+# Web3 
 
 Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
 
@@ -16,6 +16,7 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - [Roadmap](#roadmap)<br>
 - [GitHub Repositories](#github-repositories)<br>
 - [Projects](#projects)<br>
+- [Interview](#interview)<br>
 - [Conclusion](#conclusion)<br>
 
 ### Website to learn Web3
@@ -369,6 +370,14 @@ develop software that works with them</td>
     <td>RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.</td>
   </tr>
   <tr>
+    <td><a href="https://wagmi.sh/">Wagmi</a></td>
+    <td>Wagmi is a React Hooks library for Ethereum  Wagmi has a CLI to manage ABIs as well as a robust ecosystem of third-party libraries, RainbowKit, and many more, so you can get started quickly without needing to build everything from scratch.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.dynamic.xyz/">Dynamic </a></td>
+    <td>Dynamic offers a suite of tools for effortless log in, wallet creation and user management. Designed for users. Built for developers.</td>
+  </tr>
+  <tr>
     <td><a href="https://web3py.readthedocs.io/en/stable/">Web3.py</a></td>
     <td>Web3.py is a Python library for interacting with the Ethereum blockchain. It provides a convenient interface for querying blockchain data, sending transactions, and deploying contracts using Python.</td>
   </tr>
@@ -538,6 +547,10 @@ develop software that works with them</td>
       <td>Step 10 - Refer to Hackathons section</td>
     <td>Gain Practical Experience: Participate in hackathons, build projects, and contribute to open-source blockchain initiatives to apply your knowledge in real-world scenarios.</td>
   </tr>
+  <tr>
+    <td><a href="https://roadmap.sh/blockchain">Blockchain Developer</a></td>
+    <td>Step by step guide to becoming a blockchain developer in 2024.</td>
+  </tr>
 </table>
 
 ### Challenges
@@ -614,6 +627,63 @@ develop software that works with them</td>
         <td><a href="https://web3.career/learn-web3/top-solidity-open-source-projects#safe-smart-account">Solidity projects</a></td>
         <td>This link provides you a list of open-source projects written in Solidity, if you're interested in exploring the top Solidity open-source projects, this website is the go-to place for you.</td>
       </tr>
+      <tr>
+        <td><a href="https://youtu.be/3D4Z9NZRcLI?si=ISIU1LZIkDwWvC15">Supply Chain Marketplace On Ethereum</a></td>
+        <td>
+Blockchain Supply chain management plays a critical role in ensuring efficient operations and maintaining consumer trust. This project focuses on developing and deploying a decentralized application (DApp) powered by blockchain technology to streamline supply chain management processes. </td>
+      </tr>
+       <tr>
+        <td><a href="https://youtu.be/fghqq3-P3x0?si=xvgcZ0NiSYdFaCPy">Decentralize Google Drive Project</a></td>
+        <td> This project facilitates decentralized image upload and sharing on the blockchain using Solidity for the smart contract and React for the front-end interface. It enables users to securely upload images to IPFS (InterPlanetary File System) and share access with specified users through smart contract functionality.</td>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/zfLGYZDYFuo?si=sO0lC2Xi-xiOaZz_">TODO application using Blockchain</a></td>
+        <td>In this create a cutting-edge Bern application (dApp) from scratch using the powerful combination of Blockchain, Express, React, and Node.js. Whether you're a seasoned developer looking to expand your skills or a curious beginner eager to delve into decentralized app development, this step-by-step guide has got you covered.</td>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/X1ahXNYkpL8?si=kMNrjlvIaKx0Mbhe">Web 3.0 Amazon Clone</a></td>
+        <td> This project facilitates decentralized  Amazon Clone Step-By-Step with Solidity (Writing Smart Contracts & Tests), Javascript (React & Testing), Hardhat (Development Framework),Ethers.js (Blockchain Interaction), React.js (Frontend Framework).</td>
+      </tr>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/BDCT6TYLYdI?si=dLHEYc5TndOlV-F6">Blockchain Crowdfunding Platform </a></td>
+        <td> With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and, most importantly, the ability to create create, view, and donate to crowdfunding campaigns directly through the blockchain; this course is perfect to fully understand how web3, blockchain, Solidity, and smart contracts truly work behind the scenes.</td>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/y6JfVdcJh1k?si=Vp8KimEBzUUu4RPD"> Build an NFT Marketplace </a></td>
+        <td> In this Projrct Build your own NFT marketplace from Scratch using: Metamask, Hardhat, IPFS (Pinata)and Alchemy!</td>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/cxxKdJk55Lk?si=J3tVZ1Uqvkvrr_uN">Buy Me a Coffee DeFi Dapp</a></td>
+        <td> In this Projrct Build your own Buy Me a Coffee DeFi Dapp from Scratch using: Solidity, Hardhat, Ethers.js, Alchemy!</td>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/JzsTfOFjC1o?si=PLH0MzJfsYTqY6os">Create an NFT Gallery</a></td>
+        <td> In this Projrct Build your own you will learn how to develop an NFT gallery that displays NFTs by wallet address and smart contract address.</td>
+      </tr>
+
+
+</table>
+
+### Interview
+
+> These are some Interview preparation resources of Web3.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://101blockchains.com/web3-interview-questions/">Top 20 Interview Questions</a></td>
+        <td>This website contains frequently asked top 20 web3 interview questions and provided with solutions.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/01231/web3-interview-preparation">Web3 Interview Preparation Guide</a></td>
+        <td>This repository contains the Web3 interview preparation guide ,tips and tricks to crack web3 interview.It even contains the basic question which were asked in many interviews. </td>
+      </tr>
+    
+   
 </table>
 
 ### Conclusion
